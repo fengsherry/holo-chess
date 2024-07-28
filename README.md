@@ -42,6 +42,9 @@ During COVID, my friends and I got into playing online chess, however, we missed
 ```node server.js```
 
 **5. Run the Frontend:**
+
 ```npm start```
 
+<img width="982" alt="Screenshot 2024-07-28 at 12 37 05 AM" src="https://github.com/user-attachments/assets/70bbd98b-a4b1-4678-a609-4258c06d2115">
+<img width="982" alt="Screenshot 2024-07-28 at 12 39 07 AM" src="https://github.com/user-attachments/assets/c8eb7a64-606a-42f6-a872-b3f72bcb90cf">
 
